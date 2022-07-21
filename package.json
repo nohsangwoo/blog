@@ -15,6 +15,7 @@
     "@mantine/form": "^4.2.11",
     "@mantine/hooks": "^4.2.11",
     "@mantine/next": "^4.2.11",
+    "@tailwindcss/forms": "^0.5.2",
     "apollo-server-micro": "^3.9.0",
     "class-validator": "^0.13.2",
     "graphql": "^15.3.0",
@@ -28,6 +29,7 @@
     "react-dom": "18.2.0",
     "react-query": "^3.39.1",
     "reflect-metadata": "^0.1.13",
+    "styled-components": "^5.3.5",
     "tabler-icons-react": "^1.51.0",
     "type-graphql": "^1.1.1"
   },

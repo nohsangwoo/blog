@@ -58,3 +58,7 @@ yarn add @mantine/core @mantine/hooks @mantine/form  @mantine/next
 
 yarn add tabler-icons-react
 ```
+
+### styled-compoenets
+
+### tailwindcss
